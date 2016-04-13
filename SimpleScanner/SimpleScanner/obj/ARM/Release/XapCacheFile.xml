@@ -1,0 +1,37 @@
+﻿<xapCache source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\ARM\Release\SimpleScanner_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014-08-01 1:34:16 PM">
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\ARM\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014-08-01 1:34:12 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\obj\ARM\Release\SimpleScanner.dll" archivePath="SimpleScanner.dll" lastWriteTime="2014-08-01 1:34:12 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\ap.png" archivePath="Assets\ap.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\appLogo.png" archivePath="Assets\appLogo.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\back.png" archivePath="Assets\back.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\questionmark.png" archivePath="Assets\questionmark.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\scanner.png" archivePath="Assets\scanner.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\share.png" archivePath="Assets\share.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014-08-01 1:25:15 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014-08-01 1:25:15 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014-08-01 1:25:15 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014-08-01 1:25:15 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014-08-01 1:25:15 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\VoiceCommandDefinition.xml" archivePath="VoiceCommandDefinition.xml" lastWriteTime="2014-07-07 3:34:46 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014-07-07 3:54:21 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\Nokia.Graphics.Imaging.Managed.dll" archivePath="Nokia.Graphics.Imaging.Managed.dll" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\ARM\Nokia.Graphics.Imaging.winmd" archivePath="Nokia.Graphics.Imaging.winmd" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\ARM\Nokia.InteropServices.WindowsRuntime.winmd" archivePath="Nokia.InteropServices.WindowsRuntime.winmd" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\OpticalReaderLib.0.1.0.0\lib\wp8\x86\OpticalReaderLib.dll" archivePath="OpticalReaderLib.dll" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\ZXing.Net.0.12.0.0\lib\wp8\zxing.wp8.0.dll" archivePath="zxing.wp8.0.dll" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\Nokia.Graphics.Imaging.Managed.xml" archivePath="Nokia.Graphics.Imaging.Managed.xml" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\ZXing.Net.0.12.0.0\lib\wp8\zxing.wp8.0.xml" archivePath="zxing.wp8.0.xml" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\ARM\Nokia.Graphics.Imaging.dll" archivePath="Nokia.Graphics.Imaging.dll" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\ARM\Nokia.Graphics.Imaging.xml" archivePath="Nokia.Graphics.Imaging.xml" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\ARM\Nokia.InteropServices.WindowsRuntime.dll" archivePath="Nokia.InteropServices.WindowsRuntime.dll" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\NokiaImagingSDK.1.0.272.0\lib\wp8\ARM\Nokia.InteropServices.WindowsRuntime.xml" archivePath="Nokia.InteropServices.WindowsRuntime.xml" lastWriteTime="2014-07-07 3:22:13 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014-07-07 3:20:24 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014-08-01 1:34:16 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\obj\ARM\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014-08-01 1:34:16 PM" />
+  <file source="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\ARM\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014-08-01 1:34:14 PM" />
+</xapCache>

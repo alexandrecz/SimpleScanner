@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-199</Machine>
+    <WindowsUser>Alexandre</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c5002eed-66ff-4421-8b60-6cf01985aa12</PackageIdentityName>
+    <IntermediateOutputPath>D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\Debug\SimpleScanner.dll">
+      <PackagePath>SimpleScanner.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\ZXing.Net.0.14.0.1\lib\wp8\zxing.wp8.0.dll">
+      <PackagePath>zxing.wp8.0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\packages\ZXing.Net.0.14.0.1\lib\wp8\zxing.wp8.0.xml">
+      <PackagePath>zxing.wp8.0.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\ap.png">
+      <PackagePath>Assets\ap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\appLogo.png">
+      <PackagePath>Assets\appLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\questionmark.png">
+      <PackagePath>Assets\questionmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\scanner.png">
+      <PackagePath>Assets\scanner.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\share.png">
+      <PackagePath>Assets\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\VoiceCommandDefinition.xml">
+      <PackagePath>VoiceCommandDefinition.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PortF\WP\SimpleScanner\SimpleScanner\SimpleScanner\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

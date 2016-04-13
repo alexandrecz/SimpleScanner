@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="en-us" Name="englishCommands">
+    <CommandPrefix>Simple Scanner</CommandPrefix>
+    <Example> Start Scanner </Example>
+
+    <Command Name="Start">
+      <Example>  Start the scanner </Example>
+      <ListenFor> [Start] {naturalLanguage} </ListenFor>
+      <Feedback> starting simple scanner... </Feedback>
+      <Navigate Target="/MainPage.xaml" />
+    </Command>
+
+    <Command Name="Dec">
+      <Example> Decode this code...' </Example>
+      <ListenFor> [Decode] {decnaturalLanguage} {myCommand} </ListenFor>
+      <Feedback> Let's try do decode this {myCommand}... </Feedback>
+      <Navigate Target="/MainPage.xaml" />
+    </Command>
+    <Command Name="Dec1">
+      <Example> Decode this BarCode...' </Example>
+      <ListenFor> [Decode] {decnaturalLanguage} {myCommand} </ListenFor>
+      <Feedback> Let's try do decode this {myCommand}... </Feedback>
+      <Navigate Target="/Capture.xaml" />
+    </Command>
+
+    <Command Name="Dec2">
+      <Example> Could you decode this?' </Example>
+      <ListenFor> [Decode] {decnaturalLanguage} {myCommand} </ListenFor>
+      <Feedback> Ok, let me see what can I do for you chief! </Feedback>
+      <Navigate Target="/Capture.xaml" />
+    </Command>
+
+    <PhraseList Label="myCommand">
+      <Item> code </Item>
+      <Item> barcode </Item>
+    </PhraseList>
+
+    <PhraseTopic Label="decnaturalLanguage" Scenario="Natural Language">
+      <Subject> decode this </Subject>
+    </PhraseTopic>
+
+    <PhraseTopic Label="naturalLanguage" Scenario="Natural Language">
+      <Subject> start simple scanner </Subject>
+    </PhraseTopic>
+  </CommandSet>
+</VoiceCommands>
